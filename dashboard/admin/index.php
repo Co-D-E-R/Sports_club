@@ -84,8 +84,8 @@ page_protect();
 			<hr>
 
 			<div class="col-sm-3"><a href="revenue_month.php">			
-				<div class="tile-stats tile-red">
-					<div class="icon"><i class="entypo-users"></i></div>
+				<div class="tile-stats tile-blue">
+					<!-- <div class="icon"><i class="entypo-users"></i></div> -->
 						<div class="num" data-postfix="" data-duration="1500" data-delay="0">
 						<h2>Paid Income This Month</h2><br>	
 						<?php
@@ -114,8 +114,8 @@ page_protect();
 			
 
 			<div class="col-sm-3"><a href="table_view.php">			
-				<div class="tile-stats tile-green">
-					<div class="icon"><i class="entypo-chart-bar"></i></div>
+				<div class="tile-stats tile-blue">
+					<!-- <div class="icon"><i class="entypo-chart-bar"></i></div> -->
 						<div class="num" data-postfix="" data-duration="1500" data-delay="0">
 						<h2>Total <br>Members</h2><br>	
 							<?php
@@ -135,8 +135,8 @@ page_protect();
 			</div>	
 				
 			<div class="col-sm-3"><a href="over_members_month.php">			
-				<div class="tile-stats tile-aqua">
-					<div class="icon"><i class="entypo-mail"></i></div>
+				<div class="tile-stats tile-blue">
+					<!-- <div class="icon"><i class="entypo-mail"></i></div> -->
 						<div class="num" data-postfix="" data-duration="1500" data-delay="0">
 						<h2>Joined This Month</h2><br>	
 							<?php
@@ -160,7 +160,7 @@ page_protect();
 
 			<div class="col-sm-3"><a href="view_plan.php">			
 				<div class="tile-stats tile-blue">
-					<div class="icon"><i class="entypo-rss"></i></div>
+					<!-- <div class="icon"><i class="entypo-rss"></i></div> -->
 						<div class="num" data-postfix="" data-duration="1500" data-delay="0">
 						<h2>Total Plan Available</h2><br>	
 							<?php
@@ -180,7 +180,7 @@ page_protect();
 				</div></a>
 			</div>
 			
-<marquee direction="right"><img src="fball.gif" width="88" height="70" alt="Tutorials " border="0"></marquee>
+<!-- <marquee direction="right"><img src="fball.gif" width="88" height="70" alt="Tutorials " border="0"></marquee> -->
 
 			
    
